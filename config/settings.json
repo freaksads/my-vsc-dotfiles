@@ -1,0 +1,25 @@
+{
+    "window.zoomLevel": 0.7,
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.iconTheme": "vs-nomo-dark",
+    "workbench.colorCustomizations": {
+        "editorLineNumber.foreground": "#675959",
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "extensions.ignoreRecommendations": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.snippetSuggestions": "inline",
+    "editor.formatOnPaste": true,
+    "background.enabled": true,
+    "background.fullscreen": {
+        "images": [
+            "file:///YOUR_FILE_PATCH_TO_IMAGE!!!",
+        ],
+        "opacity": 0.93,
+        "size": "cover",
+        "position": "center",
+        "interval": 0
+    },
+    "workbench.productIconTheme": "developer-icons",
+}
