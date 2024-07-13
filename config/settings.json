@@ -5,12 +5,6 @@
     "workbench.colorCustomizations": {
         "editorLineNumber.foreground": "#675959",
     },
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "extensions.ignoreRecommendations": true,
-    "security.workspace.trust.untrustedFiles": "open",
-    "editor.snippetSuggestions": "inline",
-    "editor.formatOnPaste": true,
     "background.enabled": true,
     "background.fullscreen": {
         "images": [
