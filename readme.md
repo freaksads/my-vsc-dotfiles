@@ -3,3 +3,4 @@ Plugins you need: [Gruvbox Theme](https://marketplace.visualstudio.com/items?ite
 Images [here](./images/).
 
 Config [here](./config/settings.json).
+![Previev](./previev.png)
